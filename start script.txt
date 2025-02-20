@@ -1,0 +1,2 @@
+PS C:\Users\taysa\Desktop\nft_card-game> cd client
+PS C:\Users\taysa\Desktop\nft_card-game\client> npm run dev
